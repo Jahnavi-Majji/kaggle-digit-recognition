@@ -20,13 +20,13 @@ ___
 
 #### Results
 #
-. | Model 1 | Model2
----|--------|-------
-Total params | 887,530 | 715,850
-Trainable params | 887,530 | 714,762
-Non-trainable params | 0 | 1,088
-Epochs trained | 30 | 30
-Loss | .  |  .
-Training set accuracy |  .. | ..
-val_loss | ... | ...
-val_accuracy | ... | ...
+ST | LeNet5Model |
+---|--------
+Total params | 390,562
+Trainable params | 389,434
+Non-trainable params | 1,128
+Epochs trained | 30
+Loss | 0.0184
+Training set accuracy | 99.62
+val_loss | 0.236
+val_accuracy | 99.33 
