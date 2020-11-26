@@ -3,6 +3,7 @@
 MNIST is the de facto “hello world” dataset of computer vision. In this competition, our goal is to correctly identify digits from a dataset of handwritten images.
 In this competetion, our goal is to build a model that identifies the hand-written digits correctly. The dataset consists of 42,000 images in the training set and 28,000 images in the test set.
 
+Download the dataset [here](https://www.kaggle.com/c/digit-recognizer/data)
 ***
 I used 2 CNN models with different architecture. 
 
@@ -30,3 +31,9 @@ Loss | 0.0184
 Training set accuracy | 99.62
 val_loss | 0.236
 val_accuracy | 99.33 
+
+
+#### References
+
+* [Yassine Ghouzam](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6)
+* [Taavish Thaman](https://github.com/TaavishThaman/LeNet-5-with-Keras)
